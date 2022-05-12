@@ -1,0 +1,35 @@
+/* body {
+  background-image: url("https://wallpaperaccess.com/full/455151.jpg");
+} */
+
+.font-specs-W {
+  text-align: center;
+  font-family: "Special Elite", cursive;
+  color: #adc178;
+}
+
+.font-ch-W {
+  font-family: "Special Elite", cursive;
+}
+
+.btn-pos-W {
+  text-align: center;
+}
+.font-pos-W {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
+.btn-specs-W {
+  background-color: #adc178;
+  font-weight: bold;
+  width: 180px;
+  height: 30px;
+}
+
+.img-W {
+  min-height: 20vh;
+}

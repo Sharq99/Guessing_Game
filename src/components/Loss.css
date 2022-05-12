@@ -1,0 +1,36 @@
+/* body {
+  background-color: black;
+} */
+
+.font-specs-L {
+  text-align: center;
+  font-family: "Special Elite", cursive;
+  color: #adc178;
+}
+
+.font-ch-L {
+  font-family: "Special Elite", cursive;
+}
+
+.btn-pos-L {
+  text-align: center;
+}
+
+.font-pos-L {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
+.btn-specs-L {
+  background-color: #adc178;
+  font-weight: bold;
+  width: 180px;
+  height: 30px;
+}
+
+.img-L {
+  min-height: 20vh;
+}
