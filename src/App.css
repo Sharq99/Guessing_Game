@@ -1,7 +1,6 @@
 body {
-  background-image: url("https://static.onecms.io/wp-content/uploads/sites/9/2017/05/jail-restaurant-ft-blog0517.jpg");
-  -webkit-filter: grayscale(10%);
-  filter: grayscale(10%);
+  background-image: url("./Pics/jailG.png");
+  /* background-image: url("https://static.onecms.io/wp-content/uploads/sites/9/2017/05/jail-restaurant-ft-blog0517.jpg"); */
 }
 
 .font-specs {
